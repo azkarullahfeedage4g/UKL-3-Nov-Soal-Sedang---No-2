@@ -7,5 +7,5 @@ Selanjutnya jari jari dan tinggi tersebut dikirim ke fungsi hitung Volume, yang 
 V = 3.14 x r x r x t
 Hasil perhitungan dari fungsi dikembalikan ke program utama (fungsi main) dan disimpan dalam variabel.
 Program menampilkan hasil volume tabung ke layar menggunakan System.out.println dalam satuan cm^3
-<img src=<img width="1361" height="382" alt="Screenshot 2025-11-04 135914" src="https://github.com/user-attachments/assets/b70e9862-50a6-461b-93a5-a36156b1118f" />
+<img src=<img width="1462" height="977" alt="image" src="https://github.com/user-attachments/assets/4553caac-e37c-43d3-843c-28f501640bf0" />
 >
